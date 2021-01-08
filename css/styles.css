@@ -3,13 +3,26 @@
 }
 h2 {
   font-style: italic;
+  font-family: 'Snell Roundhand Script';
+  text-align: center;
 }
 img {
   width: 300px;
   display: block;
   margin-left: auto;
-  margin-right: auto;
+  margin-right: auto; 
+  border-width: 5px;
+  border-color: #00b3b4;
+  border-style: solid;
+}
+.title {
+  font-size: x-large;
+  font-weight: 700;
 }
 .school {
   color: #00b3b4;
+}
+.section {
+  font-size: large;
+  text-decoration: underline;
 }
