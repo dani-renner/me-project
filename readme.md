@@ -23,6 +23,10 @@ I've included a little bit about me and a selfie, as well as some link to github
 
 [MIT](https://opensource.org/licenses/MIT)
 
+## Copyright
+
+All Rights Reserved
+
 ## Contact Information
 
 Dani Renner danijrenner@gmail.com
