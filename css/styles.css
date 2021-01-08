@@ -22,7 +22,13 @@ img {
 .school {
   color: #00b3b4;
 }
+.sidenote {
+  font-weight: 300;
+}
 .section {
   font-size: large;
   text-decoration: underline;
+}
+body {
+  background-color: #D2EFFB
 }
