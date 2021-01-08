@@ -18,7 +18,7 @@ I've included a little bit about me and a selfie, as well as some link to github
 
 * This project is viewable using GitHub Pages
 * You can clone the repository to your desktop
-* View page at (https://dani-renner.github.io/portfolio/)
+* View page at https://dani-renner.github.io/portfolio/
 
 ## License
 
