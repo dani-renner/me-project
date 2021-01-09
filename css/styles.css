@@ -9,11 +9,11 @@ h2 {
 img {
   width: 300px;
   display: block;
-  margin-left: auto;
-  margin-right: auto; 
   border-width: 5px;
   border-color: #00b3b4;
   border-style: solid;
+  margin-left: auto;
+  margin-right: auto; 
 }
 .title {
   font-size: x-large;
@@ -28,6 +28,9 @@ img {
 .section {
   font-size: large;
   text-decoration: underline;
+}
+.header {
+  float: left;
 }
 body {
   background-color: #D2EFFB
