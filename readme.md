@@ -20,6 +20,10 @@ I've included a little bit about me and a selfie, as well as some link to github
 * You can clone the repository to your desktop
 * View page at https://dani-renner.github.io/portfolio/
 
+## Known Bugs
+
+* Sometimes I maaay have used the wrong verb tense with my commit messages.
+
 ## License
 
 [MIT](https://opensource.org/licenses/MIT)
